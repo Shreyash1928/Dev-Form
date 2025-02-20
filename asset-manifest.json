@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dev-Form/static/css/main.9061d5e5.css",
+    "main.js": "/Dev-Form/static/js/main.0b2e1a93.js",
+    "static/media/dxicons.woff": "/Dev-Form/static/media/dxicons.9ac1f13f07c4503334c7.woff",
+    "static/media/dxicons.ttf": "/Dev-Form/static/media/dxicons.7287d1faf8f8e079aeab.ttf",
+    "static/media/dxicons.woff2": "/Dev-Form/static/media/dxicons.ba20f6b82215cbe1b080.woff2",
+    "index.html": "/Dev-Form/index.html",
+    "main.9061d5e5.css.map": "/Dev-Form/static/css/main.9061d5e5.css.map",
+    "main.0b2e1a93.js.map": "/Dev-Form/static/js/main.0b2e1a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9061d5e5.css",
+    "static/js/main.0b2e1a93.js"
+  ]
+}
